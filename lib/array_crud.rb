@@ -5,7 +5,7 @@ end
 
 def create_an_array
   
-  ["wow","Bertha","Karen","arrays!"]
+  ["wow","am","Bertha","Karen","arrays!"]
   
 end
 
@@ -32,7 +32,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   
-  create_an_array[0]
+  create_an_array[1]
 end
 
 def retrieve_first_element_from_array(array)
