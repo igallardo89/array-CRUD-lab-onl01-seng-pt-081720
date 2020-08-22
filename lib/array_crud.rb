@@ -23,6 +23,7 @@ end
 
 def remove_element_from_end_of_array(array)
   
+  create_an_array.pop
   
   
 end
