@@ -5,7 +5,7 @@ end
 
 def create_an_array
   
-  ["wow","Bertha","Karen","arrays!"]
+  ["am","Bertha","Karen","arrays!"]
   
 end
 
